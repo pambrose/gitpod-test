@@ -1,3 +1,6 @@
+image:
+  file: .gitpod.dockerfile
+
 #tasks:
 #  - init: ./gradlew build
 #  - init: echo 'init script'
